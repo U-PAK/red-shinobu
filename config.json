@@ -1,14 +1,14 @@
 
 {
-    "Idcliente" : " ID DEL BOT " ,
-    "ficha" : " FICHA DEL BOT " ,
+    "Idcliente" : " 888649335787618364 " ,
+    "ficha" : " 11eb57a6c7b12bdbeee101119648e8b83e3e903827a1b3d80a2695a52d612469 " ,
     "color de error" : " #cc2e2e " ,
-    "serverbotID" : " ID DEL SERVIDOR DEL BOT " ,
-    "sexoinvite" : " INVITACIÓN DE ALGÚN SERVIDOR " ,
-    "canalogs" : " ID CANAL DE LOGS DEL SERVIDOR DEL BOT " ,
-    "rolverificado" : " ID DEL ROL VERIFICADO EN EL SERVIDOR DEL BOT " ,
-    "rolvip" : " ID DEL ROL VIP EN EL SERVIDOR DEL BOT " ,
+    "serverbotID" : " 896924207739453450 " ,
+    "sexoinvite" : " https://discord.gg/5mczHCzxv7 " ,
+    "canalogs" : " 940469525168676934 " ,
+    "rolverificado" : " 916200294835163237 " ,
+    "rolvip" : " 940475211139137558 " ,
     "mongotoken" : " MONGODB TOKEN PARA LISTA NEGRA " ,
-    "roladmin" : " ID ROL DE DESARROLLADORES EN EL SERVIDOR DEL BOT " ,
-    "botserverinvite" : " INVITACIÓN DEL SERVIDOR DEL BOT "
+    "roladmin" : " 940443478570197012 " ,
+    "botserverinvite" : " https://discord.gg/5mczHCzxv7 "
 }
