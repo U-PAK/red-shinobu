@@ -4,8 +4,8 @@
 Como muchos saben Serdán se ha muerto, por lo que este trabajo de 1 día se ha ido a la mierda junto con serdán.
 Dejaré mi SRC del Bot Raid para que ustedes puedan manipularlo.
 Si tienes dudas no dudes en contactarme:
-USUARIO#ETIQUETA(; xEyeZx#1866)
-IDENTIFICADOR DE USUARIO (927283762960691211)
+USUARIO#ETIQUETA(Francisco29#5853)
+IDENTIFICADOR DE USUARIO (533493533462626304)
 El bot cuenta con muchas funciones, en cada comando de slash command divide por cierta parte del codigo de cada uno cual es vip y cual no.
 Ejemplo: vip: verdadero,
 El bot al entrar al servidor ejecutará la línea de código número 85 como mira en ese número, el bot ejecutará una petición al servidor cambiando permisos del rol everyone y los canales del mismo.
@@ -48,7 +48,7 @@ cliente _ en ( 'listo' ,  ( ) => {
   cliente _ usuario _ establecerPresencia ( {
     estado : "dnd" ,
      actividad : {
-     nombre : "Alretix v11.2" ,
+     nombre : "Shinobu" ,
      escriba : "MIRANDO"
     
     }
