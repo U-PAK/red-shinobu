@@ -1,0 +1,14 @@
+
+{
+    "Idcliente" : " ID DEL BOT " ,
+    "ficha" : " FICHA DEL BOT " ,
+    "color de error" : " #cc2e2e " ,
+    "serverbotID" : " ID DEL SERVIDOR DEL BOT " ,
+    "sexoinvite" : " INVITACIÓN DE ALGÚN SERVIDOR " ,
+    "canalogs" : " ID CANAL DE LOGS DEL SERVIDOR DEL BOT " ,
+    "rolverificado" : " ID DEL ROL VERIFICADO EN EL SERVIDOR DEL BOT " ,
+    "rolvip" : " ID DEL ROL VIP EN EL SERVIDOR DEL BOT " ,
+    "mongotoken" : " MONGODB TOKEN PARA LISTA NEGRA " ,
+    "roladmin" : " ID ROL DE DESARROLLADORES EN EL SERVIDOR DEL BOT " ,
+    "botserverinvite" : " INVITACIÓN DEL SERVIDOR DEL BOT "
+}
