@@ -1,24 +1,10 @@
 
+/*.
 
-/*
-Como muchos saben Serdán se ha muerto, por lo que este trabajo de 1 día se ha ido a la mierda junto con serdán.
-Dejaré mi SRC del Bot Raid para que ustedes puedan manipularlo.
 Si tienes dudas no dudes en contactarme:
-USUARIO#ETIQUETA(Francisco29#5853)
-IDENTIFICADOR DE USUARIO (533493533462626304)
-El bot cuenta con muchas funciones, en cada comando de slash command divide por cierta parte del codigo de cada uno cual es vip y cual no.
-Ejemplo: vip: verdadero,
-El bot al entrar al servidor ejecutará la línea de código número 85 como mira en ese número, el bot ejecutará una petición al servidor cambiando permisos del rol everyone y los canales del mismo.
-Con esta función habilitarás la posibilidad de usar el bot en cualquier canal en caso de que los SlashCommands estén bloqueados en el canal.
-Para encender el bot deberás hacer lo siguiente:
-Rellenar lo que se te pide en el archivo "config.json" despues:
-Terminal de comandos:
-instalar npm
-nodo slashcmds.js
-nodo index.js
-Y listo, el bot encenderá sin problema, si te sale error no dudes en contactarme.
-También si usas este SRC deja algo de credito al menos Xd.
-¡En fin, suerte!
+USER#TAG(Francisco29#5853)
+USERID(533493533462626304)
+
 */
 
 
