@@ -1,2 +1,0 @@
-# Shinobu
-ktoś
