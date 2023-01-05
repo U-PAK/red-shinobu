@@ -2,7 +2,7 @@
 
 Atención:
 
-Este bot fue creado a mano por: (ID: 533493533462626304) y (ID: 897321561722339419)
+Este bot fue creado a mano por: (ID: 533493533462626304) y (ID: 642899646816976897)
 
 
 Los comandos son los siguientes:
