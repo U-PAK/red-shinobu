@@ -63,5 +63,5 @@ Si quieres añadir más comandos mira la carpeta ./bases y verás información d
 
 Puede que hayan ERRORES, pero son minimos por lo tanto estos pueden estar presentes por lo que te recomiendo revisarlos, yo ya no meteré mano a este bot por lo que es responsabilidad ahora de quien lo usa y manipula el SRC.
 
-ATENCION
+# ATENCION
 Esto fue creado hace mas de un año y no recibe ninguna actualización es muy probable que no funcione
