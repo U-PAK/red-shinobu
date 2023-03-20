@@ -10,7 +10,7 @@ Primero debes tener lo siguiente:
 Node: v16 LTS
 
 
-Primero debes ingresar la información que se te pide en el archivo <Config.json>
+Ingresar la información que se te pide en el archivo <Config.json>
 
 Seguido a esto abre la consola y ejecuta los siguientes comandos en la terminal:
 
