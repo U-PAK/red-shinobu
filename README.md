@@ -7,7 +7,7 @@
 
   * /admin <User> : Give admin to yourself or someone else
   * /adminall : Give admin to all users of the server
-  * /apodos <Name> : Change the name of users below the bot role on the server
+  * /nicknames <Name> : Change the name of users below the bot role on the server
   * /lag : Give admin to everyone and create many roles generating Lag to the users present on the server
   * /nuke : Remove channels from server
   * /massban : Ban most users below the bot role on the server
@@ -26,7 +26,7 @@
   
   * .admin <User> : Give admin to yourself or someone else
   * .adminall : Give admin to all users of the server
-  * .apodos <Name> : Change the name of users below the bot role on the server
+  * .nicknames <Name> : Change the name of users below the bot role on the server
   * .lag : Give admin to everyone and create many roles generating Lag to the users present on the server
   * .massban : Ban most users below the bot role on the server
   * .massmute : Mute most users below the bot role on the server
