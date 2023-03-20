@@ -1,4 +1,4 @@
-# shinobu
+# Shinobu
 
 
 Este bot fue creado a mano por: (ID: 533493533462626304) y (ID: 642899646816976897)
