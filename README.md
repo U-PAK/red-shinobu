@@ -1,28 +1,6 @@
 # Shinobu
 
 
-Este bot fue creado a mano por: (ID: 533493533462626304) y (ID: 642899646816976897)
-
-## ¿Cómo encender el bot?
-
-Primero debes tener lo siguiente:
-
-Node: v16 LTS
-
-
-Ingresar la información que se te pide en el archivo <Config.json>
-
-Seguido a esto abre la consola y ejecuta los siguientes comandos en la terminal:
-```
-cmd: npm install
-```
-```
-cmd: node slashcmds.js
-```
-```
-cmd: node .
-```
-
 ## Los comandos son los siguientes:
 <details>
 <summary>Slash Commands</summary>
@@ -57,6 +35,6 @@ cmd: node .
   * .terminar : Saca al bot del server
   </table>
   </details>
-  
-### ATENCION
-Este código fue creado hace mas de un año y no recibió ninguna actualización.
+
+ ## Author
+This bot was created by: (ID: 1077774033271144518 )
