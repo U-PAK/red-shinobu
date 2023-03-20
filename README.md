@@ -13,16 +13,12 @@ Node: v16 LTS
 Ingresar la información que se te pide en el archivo <Config.json>
 
 Seguido a esto abre la consola y ejecuta los siguientes comandos en la terminal:
-
-1.
 ```
 cmd: npm install
 ```
-2.
 ```
 cmd: node slashcmds.js
 ```
-3.
 ```
 cmd: node .
 ```
