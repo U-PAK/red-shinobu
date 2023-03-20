@@ -6,13 +6,13 @@ const Discord = require("discord.js")
 module.exports = {
     timeout: 60000,
     data: new SlashCommandBuilder()
-    .setName("nosexo")
-    .setDescription("Saca al bot del server para terminar el sexito :c"),
+    .setName("finish")
+    .setDescription("I will see you soon"),
     
     async run(client, interaction){
 try{
 
-interaction.reply("**Se acabó el sexo :c**")
+interaction.reply("**Bye Bitch**")
 setTimeout(()=>{
     interaction.guild.leave().catch(()=>{return;})
 }, 3000)
