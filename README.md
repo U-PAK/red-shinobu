@@ -15,9 +15,18 @@ Primero debes ingresar la información que se te pide en el archivo <Config.json
 
 Seguido a esto abre la consola y ejecuta los siguientes comandos en la terminal:
 
+1.
+```
 cmd: npm install
+```
+2.
+```
 cmd: node slashcmds.js
+```
+3.
+```
 cmd: node .
+```
 
 ## Los comandos son los siguientes:
 <details>
@@ -27,7 +36,7 @@ cmd: node .
   * /adminall : Dale administrador a todos los usuarios del servidor.
   * /apodos <Nombre> : Cambia el apodo de los usuarios inferiores al rol del Bot
   * /customraid <Opciones> : Customiza tu Raid <Comando VIP>
-  * /lag : Este comando le dará Administrador a todos los usuarios del servidor y comenzará a crear muchos roles en el server generando lag por la repentina creación de estos.
+  * /lag : Este comando le dará Administrador a todos los usuarios del servidor y comenzará a crear roles en el server generando lag.
   * /nuke : Limpia los canales del servidor.
   * /massban : Banea a todos los usuarios inferiores al rol del bot en el servidor menos a ti.
   * /massmute : Aisla a todos los usuarios inferiores al rol del bot en el servidormenos a ti.
@@ -41,6 +50,7 @@ cmd: node .
   </details>
  <details>
 <summary>Comandos Normales</summary>
+  
   * .admin [Usuario] : Date admin a ti o a alguien mas
   * .adminall : Dale admin a todos los usuarios del server
   * .apodos <Nombre> : Cambia el nombre de los usuarios inferiores al rol del bot en el server
