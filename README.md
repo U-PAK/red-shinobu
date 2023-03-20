@@ -1,6 +1,5 @@
 # RiZ-K
 
-Atención:
 
 Este bot fue creado a mano por: (ID: 533493533462626304) y (ID: 642899646816976897)
 
@@ -62,3 +61,6 @@ cmd: node .
   * .terminar : Saca al bot del server
   </table>
   </details>
+  
+# ATENCION
+Esto fue creado hace mas de un año y no recibe ninguna actualización es muy probable que no funcione
