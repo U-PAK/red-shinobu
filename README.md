@@ -63,4 +63,4 @@ cmd: node .
   </details>
   
 ### ATENCION
-Esto fue creado hace mas de un año y no recibe ninguna actualización es muy probable que no funcione
+Este código fue creado hace mas de un año y no recibió ninguna actualización, lo mas probable que no funcione
