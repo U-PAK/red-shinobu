@@ -1,38 +1,38 @@
 # Shinobu
 
 
-## Los comandos son los siguientes:
+## This Discord bot have different commands:
 <details>
 <summary>Slash Commands</summary>
 
-  * /admin <Usuario> : Date administrador en el servidor o a alguien mas.
-  * /adminall : Dale administrador a todos los usuarios del servidor.
-  * /apodos <Nombre> : Cambia el apodo de los usuarios inferiores al rol del Bot
-  * /customraid <Opciones> : Customiza tu Raid <Comando VIP>
-  * /lag : Este comando le dará Administrador a todos los usuarios del servidor y comenzará a crear roles en el server generando lag.
-  * /nuke : Limpia los canales del servidor.
-  * /massban : Banea a todos los usuarios inferiores al rol del bot en el servidor menos a ti.
-  * /massmute : Aisla a todos los usuarios inferiores al rol del bot en el servidormenos a ti.
-  * /massroles <Opciones> : Crea muchos roles personalizados
-  * /raid : Raidea el servidor
-  * /serverbanner : Cambia el Banner del server
-  * /servericon : Cambia el icono del server
-  * /servername : Cambia el nombre del server
-  * /terminar : Saca al Bot del server
+  * /admin <User> : Give admin to yourself or someone else
+  * /adminall : Give admin to all users of the server
+  * /apodos <Name> : Change the name of users below the bot role on the server
+  * /lag : Give admin to everyone and create many roles generating Lag to the users present on the server
+  * /nuke : Remove channels from server
+  * /massban : Ban most users below the bot role on the server
+  * /massmute : Mute most users below the bot role on the server
+  * /raid : Destroy server
+  * /serverbanner : Change the server banner
+  * /servericon : Change the server icon
+  * /servername : Change the name of the server
+  * /finish : Remove the bot from the server
+  * /ping : Latency and ping of the bot
+  * /spam : Send many messages to server
   </table>
   </details>
  <details>
-<summary>Comandos Normales</summary>
+<summary>Normal Commands</summary>
   
-  * .admin [Usuario] : Date admin a ti o a alguien mas
-  * .adminall : Dale admin a todos los usuarios del server
-  * .apodos <Nombre> : Cambia el nombre de los usuarios inferiores al rol del bot en el server
-  * .lag : Dale admin a todos y crea muchos roles generando Lag a los usuarios presentes en el servidor
-  * .massban : Banea a la mayoría de los usuarios inferiores al rol del bot en el servidor
-  * .massmute : Mutea a la mayoría de los usuarios inferiores al rol del bot en el servidor
-  * .nuke : Limpia los canales del servidor
-  * .raid : Raidea el servidor
-  * .terminar : Saca al bot del server
+  * .admin <User> : Give admin to yourself or someone else
+  * .adminall : Give admin to all users of the server
+  * .apodos <Name> : Change the name of users below the bot role on the server
+  * .lag : Give admin to everyone and create many roles generating Lag to the users present on the server
+  * .massban : Ban most users below the bot role on the server
+  * .massmute : Mute most users below the bot role on the server
+  * .nuke : Remove channels from server
+  * .raid : Destroy server
+  * .finish : Remove the bot from the server
   </table>
   </details>
 
