@@ -4,7 +4,7 @@ Atención:
 
 Este bot fue creado a mano por: (ID: 533493533462626304) y (ID: 642899646816976897)
 
-##¿Cómo encender el bot?
+## ¿Cómo encender el bot?
 
 Primero debes tener lo siguiente:
 
